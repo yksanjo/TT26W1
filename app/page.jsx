@@ -819,11 +819,11 @@ async function runInference(session, text) {
               <ul className="space-y-2">
                 <li className="flex items-start">
                   <span className="mr-2">•</span>
-                  <span>Efficiency > Scale: Optimize for cost and performance</span>
+                  <span>Efficiency &gt; Scale: Optimize for cost and performance</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">•</span>
-                  <span>Integration > Innovation: Focus on making AI work in real workflows</span>
+                  <span>Integration &gt; Innovation: Focus on making AI work in real workflows</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2">•</span>
