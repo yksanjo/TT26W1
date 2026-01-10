@@ -412,7 +412,7 @@ async function runInference(session, text) {
     },
     {
       id: 'funding-strategy',
-      title: 'Founder's Fundraising Playbook',
+      title: "Founder's Fundraising Playbook",
       description: 'Insights from Jan 2026 funding trends',
       type: 'strategy',
       difficulty: 'intermediate',
